@@ -6,17 +6,17 @@ I'm a 22-year-old Indian developer. I am an engineer without a Engineer degree b
 
 ### 🔭 Current Projects:
 - **Launchlane**: A no-code waitlist tool for capturing customer payment intent and tracking metrics.
+- **Leetcode Stats**: A new UI to flex your leetcode profile.
 - **StripeMRR**: A tool that generates MRR stats and charts from monthly income data.
 - **Loom Alternative**: A screen recording tool that generates shareable URLs for easy video sharing.
-- Working on my first-ever **TED Talks** covering my various projects.
 
 ---
 
 ### 🛠 Tech Stack:
 - **Frontend**: React, Next.js, Astro, Framer Motion, Tailwind CSS
-- **Backend**: Node.js, Express, MongoDB, Nextjs Api route
+- **Backend**: Node.js, Express, MongoDB, Nextjs API route
 - **Mobile**: React Native, Expo
-- **Tools**: Git, Figma, Stripe API, Vite, Clerk, Supabase, AWS, Cloudfare, PostHog, Mixpanel, Shadcn UI
+- **Tools**: Git, Figma, Stripe, Vite, Clerk, Supabase, AWS, Cloudfare, PostHog, Mixpanel, ShadcnUI
 
 ---
 

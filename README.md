@@ -2,7 +2,7 @@
 
 Design Engineer | Full Stack Devloper
 
-I am 22, Indian and an engineer without an engineering degree because I hold a B.Sc. Honours in Computer Science 🤝
+I am 23, Indian and an engineer without an engineering degree because I hold a B.Sc. Honours in Computer Science 🤝
 
 #### 🔭 Current Projects:
 - **Launchlane**: A no-code waitlist tool for capturing customer payment intent and tracking metrics.

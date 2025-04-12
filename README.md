@@ -1,22 +1,22 @@
 ### Hi, I'm Arghya 👋
 
-Design Engineer 🚀
+I am a design engineer who loves building.
 
-#### 🔭 Current Projects:
-- **Launchlane**: A no-code waitlist tool for capturing customer payment intent and tracking metrics.
-- **Leetcode Stats**: A new UI to flex your leetcode profile.
-- **StripeMRR**: A tool that generates MRR stats and charts from monthly income data.
-- **Loom Alternative**: A screen recording tool that generates shareable URLs for easy video sharing.
+#### What I'm Working On:
+- **Launchlane:** A simple tool to capture customer interest without any coding.
+- **Leetcode Stats:** A fresh UI to show off your Leetcode profile.
+- **StripeMRR:** A tool that turns monthly income data into easy-to-read charts.
+- **Loom Alternative:** A screen recording tool that creates shareable video links.
 
-#### 🛠 Tech Stack:
-- **Frontend**: React, Next.js, Astro, Framer Motion, Tailwind CSS
-- **Backend**: Node.js, Express, MongoDB, Nextjs API route
-- **Mobile**: React Native, Expo
-- **Tools**: Git, Figma, Stripe, Vite, Clerk, Supabase, AWS, Cloudfare, PostHog, Mixpanel, ShadcnUI
+#### My Tools:
+- **Frontend:** React, Next.js, Astro, Framer Motion, Tailwind CSS
+- **Backend:** Node.js, Express, MongoDB, Next.js API Routes
+- **Mobile:** React Native, Expo
+- **Other:** Git, Figma, Stripe, Vite, Clerk, Supabase, AWS, Cloudflare, PostHog, Mixpanel, ShadcnUI
 
-While most of my repositories are currently private, I'm actively working on making more of my projects public for the community to benefit from.
+I have a few private projects right now, but I'm working on sharing more of my work with everyone soon.
 
-#### 📫 How to reach me:
-- **Email**: [itsarghyadas@gmail.com](mailto:itsarghyadas@gmail.com)
-- **LinkedIn**: [itsarghyadas](https://www.linkedin.com/in/itsarghyadas/)
-- **Twitter**: [@itsarghyadas](https://x.com/itsarghyadas)
+#### How to Reach Me:
+- **Email:** [itsarghyadas@gmail.com](mailto:itsarghyadas@gmail.com)
+- **LinkedIn:** [itsarghyadas](https://www.linkedin.com/in/itsarghyadas/)
+- **Twitter:** [@itsarghyadas](https://x.com/itsarghyadas)

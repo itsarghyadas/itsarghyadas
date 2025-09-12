@@ -4,19 +4,14 @@
 
 I am a design engineer who loves building.
 
-#### What I'm Working On:
-- **Launchlane:** A simple tool to capture customer interest without any coding.
-- **Leetcode Stats:** A fresh UI to show off your Leetcode profile.
-- **StripeMRR:** A tool that turns monthly income data into easy-to-read charts.
-- **Loom Alternative:** A screen recording tool that creates shareable video links.
+### What I Do Best
 
-#### My Tools:
-- **Frontend:** React, Next.js, Astro, Framer Motion, Tailwind CSS
-- **Backend:** Node.js, Express, MongoDB, Next.js API Routes
-- **Mobile:** React Native, Expo
-- **Other:** Git, Figma, Stripe, Vite, Clerk, Supabase, AWS, Cloudflare, PostHog, Mixpanel, ShadcnUI
-
-I have a few private projects right now, but I'm working on sharing more of my work with everyone soon.
+- **Design & UX** — Making interfaces that are easy to use  
+- **Frontend** — Bringing designs to life with smooth interactions  
+- **Full-Stack** — Building apps from backend to frontend  
+- **Prototyping** — Turning ideas into working products quickly  
+- **Collaboration** — Working with others to ship better features  
+- **Product Thinking** — Focusing on usability and real impact 
 
 #### How to Reach Me:
 - **Email:** [itsarghyadas@gmail.com](mailto:itsarghyadas@gmail.com)

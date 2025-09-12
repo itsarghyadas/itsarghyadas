@@ -1,3 +1,5 @@
+<img width="1500" height="500" alt="twitter-banner" src="https://github.com/user-attachments/assets/fc78a299-76e4-4b34-9752-4b788c795c87" />
+
 ### Hi, I'm Arghya 👋
 
 I am a design engineer who loves building.
